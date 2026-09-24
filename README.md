@@ -12,7 +12,9 @@ The dataset includes polarization and intensity images captured under various ro
 
 Representative samples of the dataset are shown below.
 
-![Sample road surface data](assets/sample_road_data.png)
+<p align="center">
+  <img src="assets/sample_road_data.png" alt="Sample road surface data" width="600">
+</p>
 
 ## Dataset Contents
 
