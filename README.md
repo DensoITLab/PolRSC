@@ -1,4 +1,5 @@
-# Road Surface Polarization Dataset
+# PolRSC Dataset
+### Polarization Road Surface Condition Dataset
 
 A polarization road-surface dataset including dry, wet, snow, ice, and black-ice conditions.
 
